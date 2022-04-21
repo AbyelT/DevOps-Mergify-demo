@@ -5,7 +5,7 @@ import { messageArr } from './msgarray';
 function App() {
   return (
     <div className="App">
-      <h1> Hello DD2482 </h1>
+      <h1> Hello bugs! </h1>
       <HomeView message={messageArr[1]}/>
     </div>
   );
